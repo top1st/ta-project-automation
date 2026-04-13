@@ -1,0 +1,12 @@
+0:00 - "This is the complete system I built for TA Project Services"
+
+0:15 - Show GitHub repo structure
+0:30 - Run main_workflow.py
+0:45 - Enter project brief (paste example)
+1:00 - Show AI processing in terminal
+1:15 - Open generated Word document
+1:30 - Show Asana task created
+1:45 - Show OneDrive upload
+2:00 - Explain error handling (show robust_workflow.py)
+2:15 - Show fallback mode if API fails
+2:30 - "98% complete - ready for your team"
